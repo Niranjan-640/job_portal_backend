@@ -2,9 +2,9 @@
 
 import requests
 
-API_URL = "http://13.233.144.63:3000/api/project.all"
-api_key = "kVuIptvNzJoxRLatYsVZGkVIbQoZDHlZkisKqDeEkaYfQMrHePUgStdcOQbsXREz"
-app_name = "jobportal-backend-iqx437"
+API_URL = "http://13.203.19.120:3000/api/project.all"
+api_key = "rOuZWeJrEaCGqnoZzqNqyjfMzYUYQeBnxFLCoDsMgZIcVAkIAtNDcfJNIbpuWhxc"
+app_name = "jobportal-jobbackendportal-amkpkv"
 
 def get_application_id():
    """Fetch Application ID"""
