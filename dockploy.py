@@ -4,7 +4,7 @@ import requests
 
 API_URL = "http://13.235.56.98:3000/api/project.all"
 api_key = "vpTkcxzZxwmxiLDqWdhZXahwNRgTLHdFGvUTTFrgUTywfyKNYbaqeTcDVCehDoYD"
-app_name = "netpypro-backend-6chmmd"
+app_name = "netpypro-backend-aq4ati"
 
 def get_application_id():
    """Fetch Application ID"""
