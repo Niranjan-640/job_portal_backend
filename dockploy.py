@@ -2,9 +2,9 @@
 
 import requests
 
-API_URL = "http://13.201.183.72:3000/api/project.all"
-api_key = "hvalHRSCiSGuAUMKHAEVCrJvhppgNBIOSfygtunquHtEbqdhTkSkBuKrZHGVCycz"
-app_name = "jobportal-bac-qd4313"
+API_URL = "http://13.235.56.98:3000/api/project.all"
+api_key = "cezJhdHQiLUJauDIajxHRWUdbPlTuWpOTimJJldLXvdSOJlKGoKWHxtlMDYDlJLe"
+app_name = "netpypro-backend-6chmmd"
 
 def get_application_id():
    """Fetch Application ID"""
