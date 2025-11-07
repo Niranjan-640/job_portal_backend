@@ -110,8 +110,4 @@ Jenkins
 """
     }
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 58c1a05 (third_initalize)
